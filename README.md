@@ -13,6 +13,9 @@ Projeto feito no módulo do meu curso, fiz um dashboard simples com a database f
 ## 🎞 Imagens do Projeto
 ![image](https://github.com/user-attachments/assets/a6409a5a-7a9d-42b5-89f6-08213df3b2fa)
 ![image](https://github.com/user-attachments/assets/1644d022-7c39-45f4-a8dc-ed288ccf0b53)
+![image](https://github.com/user-attachments/assets/727ccce3-27d6-40ae-a6c5-81b88afd4efd)
+
+
 
 
 ## ⚙ Ferramentas Utilizadas 
